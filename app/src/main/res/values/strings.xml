@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Pleos Starter</string>
+    <string name="subtitle">Pleos Connect · 첫 번째 Android 앱</string>
+    <string name="device_info">기기: %1$s · Android API %2$d</string>
+    <string name="ready">앱 실행 준비 완료\n버튼을 눌러 실제 차량 API를 확인하세요.</string>
+    <string name="read_door">운전석 도어 위치 조회</string>
+    <string name="reading">Vehicle SDK에 도어 위치를 요청하고 있습니다…</string>
+    <string name="door_position">운전석 도어 위치: %1$d</string>
+    <string name="no_value">SDK가 도어 위치 값을 반환하지 않았습니다.</string>
+    <string name="sdk_error">Vehicle SDK 오류: %1$s</string>
+    <string name="timeout">응답 시간 초과. Pleos 서비스가 준비되었는지 확인하고 다시 시도하세요.</string>
+    <string name="permission_denied">차량 도어 권한이 필요합니다. Pleos 이미지와 앱 권한 설정을 확인하세요.</string>
+</resources>
